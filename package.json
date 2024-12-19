@@ -35,7 +35,7 @@
     "formstate-x": "^3.1.1",
     "mobx": "^6.9.0",
     "mobx-react-lite": "^3.4.3",
-    "next": "^13.2.4",
+    "next": "^15.1.1",
     "next-auth": "^4.24.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
