@@ -31,7 +31,7 @@
     "@emotion/styled": "^11.10.6",
     "@mui/icons-material": "^5.11.11",
     "@mui/material": "^5.11.14",
-    "@types/validator": "^13.7.14",
+    "@types/validator": "^13.12.2",
     "formstate-x": "^3.1.1",
     "mobx": "^6.9.0",
     "mobx-react-lite": "^4.1.0",
@@ -39,7 +39,7 @@
     "next-auth": "^4.24.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "validator": "^13.9.0"
+    "validator": "^13.12.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.5.0",
